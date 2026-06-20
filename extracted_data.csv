@@ -1,0 +1,14 @@
+author,target,tumor,year,n,events,armored
+Beatty GL,MSLN,Pancreatic,2014,6,0,False
+Ahmed N,HER2,Sarcoma,2015,10,0,False
+Junghans,PSMA,Prostate,2016,7,2,False
+Katz SC,CEA,Colorectal,2015,10,0,False
+Hege,TAG-72,Colorectal,2017,16,0,False
+Adusumilli,MSLN,Mesothelioma,2021,21,0,False
+Haas,MSLN,Solid tumors,2019,15,0,False
+Shi,GPC3,HCC,2020,13,1,False
+Heczey,GPC3,HCC,2024,30,12,True
+Chen N,GCC+CD19,Colorectal,2024,15,6,True
+Narayan,PSMA,Prostate,2022,11,3,True
+Wang,MSLN,Solid tumors,2021,10,0,True
+Qi,CLDN18.2,Gastric/GEJ,2022,37,18,False
